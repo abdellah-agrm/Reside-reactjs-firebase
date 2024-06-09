@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "title": "Modern Family Home",
+        "location": "San Francisco, CA",
+        "price_of_the_house": 1250000,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareft": 2000,
+        "type": "sale"
+    },
+    {
+        "id": 2,
+        "title": "Luxury Penthouse",
+        "location": "New York, NY",
+        "price_of_the_house": 2500000,
+        "details": "Pellentesque habitant morbi tristique senectus et netus et malesuada.",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareft": 1800,
+        "type": "sale"
+    },
+    {
+        "id": 3,
+        "title": "Cozy Cottage",
+        "location": "Portland, OR",
+        "price_of_the_house": 650000,
+        "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareft": 1200,
+        "type": "sale"
+    },
+    {
+        "id": 4,
+        "title": "Beachfront Villa",
+        "location": "Miami, FL",
+        "price_of_the_house": 3200000,
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareft": 3500,
+        "type": "sale"
+    },
+    {
+        "id": 5,
+        "title": "Historic Mansion",
+        "location": "Savannah, GA",
+        "price_of_the_house": 1500000,
+        "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "squareft": 4000,
+        "type": "sale"
+    },
+    {
+        "id": 6,
+        "title": "Country Estate",
+        "location": "Nashville, TN",
+        "price_of_the_house": 1200000,
+        "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareft": 2500,
+        "type": "sale"
+    },
+    {
+        "id": 7,
+        "title": "Charming Bungalow",
+        "location": "Denver, CO",
+        "price_of_the_house": 850000,
+        "details": "Mollit anim id est laborum.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareft": 1500,
+        "type": "sale"
+    },
+    {
+        "id": 8,
+        "title": "Urban Loft",
+        "location": "Chicago, IL",
+        "price_of_the_house": 950000,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareft": 1300,
+        "type": "sale"
+    },
+    {
+        "id": 9,
+        "title": "Rustic Cabin",
+        "location": "Salt Lake City, UT",
+        "price_of_the_house": 550000,
+        "details": "Pellentesque habitant morbi tristique senectus et netus et malesuada.",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareft": 1100,
+        "type": "sale"
+    },
+    {
+        "id": 10,
+        "title": "Elegant Townhouse",
+        "location": "Charlotte, NC",
+        "price_of_the_house": 780000,
+        "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareft": 1600,
+        "type": "sale"
+    },
+    {
+        "id": 11,
+        "title": "Seaside Condo",
+        "location": "Los Angeles, CA",
+        "price_of_the_house": 1400000,
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareft": 1700,
+        "type": "sale"
+    },
+    {
+        "id": 12,
+        "title": "Grand Estate",
+        "location": "Houston, TX",
+        "price_of_the_house": 2200000,
+        "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareft": 4500,
+        "type": "sale"
+    }
+]

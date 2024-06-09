@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Spacious Family Home",
+    "location": "New York, NY",
+    "price": 3500,
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareft": 1500,
+    "type": "rent"
+  },
+  {
+    "id": 2,
+    "title": "Modern Apartment",
+    "location": "San Francisco, CA",
+    "price": 4200,
+    "details": "Pellentesque habitant morbi tristique senectus et netus et malesuada.",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareft": 950,
+    "type": "rent"
+  },
+  {
+    "id": 3,
+    "title": "Cozy Cottage",
+    "location": "Austin, TX",
+    "price": 2500,
+    "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareft": 1100,
+    "type": "rent"
+  },
+  {
+    "id": 4,
+    "title": "Luxurious Villa",
+    "location": "Miami, FL",
+    "price": 6000,
+    "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareft": 3000,
+    "type": "rent"
+  },
+  {
+    "id": 5,
+    "title": "Charming Bungalow",
+    "location": "Denver, CO",
+    "price": 2800,
+    "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareft": 1400,
+    "type": "rent"
+  },
+  {
+    "id": 6,
+    "title": "Downtown Loft",
+    "location": "Chicago, IL",
+    "price": 3700,
+    "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareft": 800,
+    "type": "rent"
+  },
+  {
+    "id": 7,
+    "title": "Country House",
+    "location": "Nashville, TN",
+    "price": 3200,
+    "details": "Mollit anim id est laborum.",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareft": 1600,
+    "type": "rent"
+  },
+  {
+    "id": 8,
+    "title": "Beachfront Condo",
+    "location": "Los Angeles, CA",
+    "price": 4500,
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareft": 1200,
+    "type": "rent"
+  },
+  {
+    "id": 9,
+    "title": "Urban Flat",
+    "location": "Seattle, WA",
+    "price": 3300,
+    "details": "Pellentesque habitant morbi tristique senectus et netus et malesuada.",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareft": 900,
+    "type": "rent"
+  },
+  {
+    "id": 10,
+    "title": "Suburban Retreat",
+    "location": "Portland, OR",
+    "price": 3100,
+    "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareft": 1700,
+    "type": "rent"
+  },
+  {
+    "id": 11,
+    "title": "Luxury Penthouse",
+    "location": "Boston, MA",
+    "price": 7000,
+    "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareft": 3500,
+    "type": "rent"
+  },
+  {
+    "id": 12,
+    "title": "Historic Home",
+    "location": "Philadelphia, PA",
+    "price": 2900,
+    "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareft": 1450,
+    "type": "rent"
+  },
+  {
+    "id": 13,
+    "title": "City Studio",
+    "location": "Washington, DC",
+    "price": 2600,
+    "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareft": 650,
+    "type": "rent"
+  },
+  {
+    "id": 14,
+    "title": "Rustic Cabin",
+    "location": "Salt Lake City, UT",
+    "price": 2300,
+    "details": "Mollit anim id est laborum.",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "squareft": 900,
+    "type": "rent"
+  },
+  {
+    "id": 15,
+    "title": "Contemporary Duplex",
+    "location": "Dallas, TX",
+    "price": 3400,
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareft": 1550,
+    "type": "rent"
+  }
+]
